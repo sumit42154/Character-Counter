@@ -1,0 +1,6 @@
+.current-count.warning{
+    color: #fbbf24;
+}
+.current-count.danger{
+    color: #ef4444;
+}
